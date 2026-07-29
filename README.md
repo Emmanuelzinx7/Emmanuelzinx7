@@ -1,4 +1,4 @@
-# Olá! 👋
+# Olá! 👋 Me chamo Emmanuel
 
 ## 👨‍💻 Sobre mim
 
@@ -6,8 +6,6 @@
 - 📚 Aprendendo programação
 - 🎯 Objetivo: me tornar desenvolvedor
 - 🇧🇷 Brasil
-
-<h2 data-importer="text" align="left">Hi 👋! My name is Emmanuel</h2>
 
 ###
 
