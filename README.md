@@ -17,13 +17,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmanuelzinx7&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelzinx7&layout=compact&theme=tokyonight)
-
----
 
 ## 🐍 Pac-Man
 
