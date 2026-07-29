@@ -57,3 +57,4 @@
 ### 📫 Contato
 
 - GitHub: **@Emmanuelzinx7**
+- Discord: Emmanuelzinx07  ㇱ
