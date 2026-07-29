@@ -58,3 +58,4 @@
 
 - GitHub: **@Emmanuelzinx7**
 - Discord: Emmanuelzinx07  ㇱ
+- Instagram: emmanuelzinx7
