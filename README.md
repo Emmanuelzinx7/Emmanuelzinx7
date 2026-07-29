@@ -6,6 +6,7 @@
 - 📚 Aprendendo programação
 - 🎯 Objetivo: me tornar desenvolvedor
 - 🇧🇷 Brasil
+- "Aprender os fundamentos é o caminho para criar software de qualidade."
 
 ###
 
