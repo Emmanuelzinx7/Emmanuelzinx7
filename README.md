@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**Emmanuelzinx7/Emmanuelzinx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mim
 
-Here are some ideas to get you started:
+- 🎓 Estudando Python
+- 📚 Aprendendo programação
+- 🎯 Objetivo: me tornar desenvolvedor
+- 🇧🇷 Brasil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmanuelzinx7&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelzinx7&layout=compact&theme=tokyonight)
+
+---
+
+## 🐍 Pac-Man
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emmanuelzinx7/Emmanuelzinx7/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emmanuelzinx7/Emmanuelzinx7/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Emmanuelzinx7/Emmanuelzinx7/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+---
+
+### 📫 Contato
+
+- GitHub: **@Emmanuelzinx7**
